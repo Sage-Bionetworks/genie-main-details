@@ -1,0 +1,54 @@
+CHOP:
+  synid_file_pat: syn20446601
+  synid_folder_output: syn11703496
+COLU:
+  synid_file_pat: syn18693147
+  synid_folder_output: syn11703487
+CRUK:
+  synid_file_pat: syn12121308
+  synid_folder_output: syn11727016
+DFCI:
+  synid_file_pat: syn21265748
+  synid_folder_output: syn5016917
+DUKE:
+  synid_file_pat: syn17023617
+  synid_folder_output: syn13363328
+GRCC:
+  synid_file_pat: syn8514264
+  synid_folder_output: syn5016904
+JHU:
+  synid_file_pat: syn7821249
+  synid_folder_output: syn5016900
+MSK:
+  synid_file_pat: syn7224475
+  synid_folder_output: syn5548760
+NKI:
+  synid_file_pat: syn7245149
+  synid_folder_output: syn5016919
+PROV:
+  synid_file_pat: syn26986939
+  synid_folder_output: syn11703431
+SCI:
+  synid_file_pat: syn17017899
+  synid_folder_output: syn11703426
+UCHI:
+  synid_file_pat: syn13310072
+  synid_folder_output: syn11703501
+UCSF:
+  synid_file_pat: syn26718092
+  synid_folder_output: syn11703469
+UHN:
+  synid_file_pat: syn7229580
+  synid_folder_output: syn5016894
+VHIO:
+  synid_file_pat: syn16969648
+  synid_folder_output: syn11727025
+VICC:
+  synid_file_pat: syn7395712
+  synid_folder_output: syn5016921
+WAKE:
+  synid_file_pat: syn23679302
+  synid_folder_output: syn11703505
+YALE:
+  synid_file_pat: syn12979114
+  synid_folder_output: syn11703407
