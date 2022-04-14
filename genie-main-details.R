@@ -342,7 +342,7 @@ write_check_details <- function(res, synid_file_pat, outfile, synid_folder_outpu
                                          prov_name = 'upload error details',
                                          prov_desc = 'row based error reporting and details for issues in uploaded files',
                                          prov_used = synid_file_pat,
-                                         prov_exec = 'https://github.com/Sage-Bionetworks/genie-main-details/blob/main/mg_vital_error_details.R')
+                                         prov_exec = 'https://github.com/Sage-Bionetworks/genie-main-details/blob/main/genie-main-details.R')
     
     file.remove(outfile)
   }
