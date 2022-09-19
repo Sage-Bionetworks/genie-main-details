@@ -29,12 +29,12 @@ export SYNAPSE_AUTH_TOKEN={your_personal_access_token_here}
 
 To display the command line interface:
 ```
-Rscript mg_vital_error_details.R -h
+Rscript genie-main-details.R -h
 ```
 
 The command line interface will display as follows:
 ```
-Usage: mg_vital_error_details.R [options]
+Usage: genie-main-details.R [options]
 
 
 Options:
@@ -50,7 +50,7 @@ Options:
 
 Example run: 
 ```
-Rscript mg_vital_error_details.R -v -u
+Rscript genie-main-details.R -v -u
 ```
 
 ## Usage with Docker
@@ -62,7 +62,7 @@ docker run -e SYNAPSE_AUTH_TOKEN=$SYNAPSE_AUTH_TOKEN --rm genie-main-details -h
 
 The command line interface will display as follows:
 ```
-Usage: mg_vital_error_details.R [options]
+Usage: genie-main-details.R [options]
 
 
 Options:
